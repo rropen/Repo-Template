@@ -5,7 +5,6 @@ project.
 
 * [Private Software Policy](#private-software-policy)
 * [Reporting a Bug](#reporting-a-bug)
-* [Comments on this Policy](#comments-on-this-policy)
 
 ## Private Software Policy
 
@@ -20,16 +19,7 @@ contributions.
 
 Report security bugs by emailing the lead maintainer at [Josh.Haines@Rolls-Royce.com](mailto:Josh.Haines@Rolls-Royce.com).
 
-The lead maintainer will acknowledge your email within 48 hours, and will send a
-more detailed response within 48 hours indicating the next steps in handling
-your report. After the initial reply to your report, the security team will
-endeavor to keep you informed of the progress towards a fix and full
-announcement, and may ask for additional information or guidance.
+The lead maintainer will acknowledge your email within 48 hours and may ask for additional information or guidance.
 
 Report security bugs in third-party modules to the person or team maintaining
 the module.
-
-## Comments on this Policy
-
-If you have suggestions on how this process could be improved please submit a
-pull request.
